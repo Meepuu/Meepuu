@@ -31,7 +31,7 @@ My name is Marc or Marcus ~ feel free to call me either or.
 
 ### Ways to find me! 👋
 * Discord - **Marcus#0002** _make sure the M is capitalized or else you'll get someone else_
-* FFXIV - **Taiga Ikana** _on **Primal** Data Center, server **Ultros**_ https://na.finalfantasyxiv.com/lodestone/character/24958014/
+* FFXIV - **Taiga Ikana** _on **Primal** Data Center, server **Ultros**_ 
 * Twitch - **Taigor__** _can take a peek at my suffering in TEA_ 🤕  https://www.twitch.tv/taigor__ *theres two underscores at the end of my name, github not being nice with the link*
 
 
